@@ -7,7 +7,7 @@
   <ol>
     <li><a href="#about-the-project">About The Website</a></li>
     <li><a href="#development-tool">Development Tool</a></li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#Contributing">Contributing</a></li>
   </ol>
 </details>
 
